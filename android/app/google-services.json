@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369972898692",
+    "project_id": "flutter-veterinaria",
+    "storage_bucket": "flutter-veterinaria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369972898692:android:79e12957bb175926ffcbd1",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369972898692-5u6am7vi04bt0fiauhdg2a0blecif2jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfSLYKRBNZtLQjhj46jdBZ5w8PTcEzn7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369972898692-5u6am7vi04bt0fiauhdg2a0blecif2jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

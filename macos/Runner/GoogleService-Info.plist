@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>369972898692-62358l16qjak9i67k0rqqgakcaocol4i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.369972898692-62358l16qjak9i67k0rqqgakcaocol4i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCjiusRXIDSi7N9_gE3w0dVUd01yT6adrs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>369972898692</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.myApp</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-veterinaria</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-veterinaria.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:369972898692:ios:5bc96789ec7e8b02ffcbd1</string>
+</dict>
+</plist>
